@@ -1,0 +1,20 @@
+body {
+    background-color: #FFA61A;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 48px;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+
+nav {
+    background-color: red;
+}
+
+.btn {
+    background-color: red;
+}
