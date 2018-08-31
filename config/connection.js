@@ -1,6 +1,6 @@
 //this file houses all mysql connection data
 
-var mysql      = require('mysql');
+var mysql = require('mysql');
 
 if (process.env.JAWSDB_URL){
     var connection = mysql.createConnection(process.env.JAWSDB_URL);

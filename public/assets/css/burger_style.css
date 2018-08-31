@@ -1,12 +1,20 @@
 body {
     background-color: #FFA61A;
+    font-family: Helvetica, sans-serif
 }
 
 h1 {
     font-family: 'Luckiest Guy', cursive;
     font-size: 48px;
     padding: 5px;
-    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: 'Crete Round', serif;
+    font-size: 24px;
+    padding: 5px;
     margin: auto;
     padding-top: 10px;
 }
@@ -17,4 +25,10 @@ nav {
 
 .btn {
     background-color: red;
+}
+
+#devourButton {
+    padding-bottom: 5px;
+    font-family: 'Luckiest Guy', cursive;
+
 }
